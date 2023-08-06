@@ -1,25 +1,3 @@
-<h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)
-
-</h1></h1>
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
-  </a>
-  <a href="https://github.com/shelby611/discord-fake-verification-qr-bot">
-    <img src="https://img.shields.io/badge/covarage-90%25-green">
-  </a>
-  <a href="https://github.com/shelby611">
-  </a>
-  <a href="https://github.com/shelby611">
-  </a>
-</p>
-
-<p align="center">
-  [Discord] - This Bot is a Script Gathering for Windows systems written in Python.
-</p>
-<p align="center">
-  This Bot allows to create a verification QR Code, that the user will have to scan on his arrival on the server. Once scanned, you will get his information including his Token.
-</p>
-
 
 ## Disclaimer
 
