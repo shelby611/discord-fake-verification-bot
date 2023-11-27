@@ -1,12 +1,12 @@
 {
-    "botToken": "",
-    "logs_channel_id": "",
+    "botToken": "MTE3ODcwODk5NzkwMjE4NDQ2OA.GZeRjP.COsHguoSpmRfy9_2HCulMYcJCYViAEOg0HfEe8",
+    "logs_channel_id": "1178709326316187739",
 
     "prefix": "*",
     "command_name": "start",
     
-    "give_role": false,
-    "role_name": "Nom du role",
+    "give_role": true,
+    "role_name": "verified",
 
     "mass_dm": 0,
     "message": "Message a spam"
